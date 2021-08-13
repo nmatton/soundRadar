@@ -4,6 +4,8 @@
 
 This is a Python 3+ program that process and show in real-time the 7.1 sound origin.
 
+![image](https://user-images.githubusercontent.com/6585327/129367458-2405b3b0-0d26-42fc-a6ef-a5da786c9297.png)
+
 ## How to use ?
 
 1. Download [VB-Cable](https://vb-audio.com/Cable/)
